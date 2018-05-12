@@ -1,0 +1,56 @@
+_repo: The-Rainbow_28948
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, David Herbert
+    - Lawrence, D.H.
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: "A rainbow is a meteorological phenomenon that is caused by reflection,\
+  \ refraction and dispersion of light in water droplets resulting in a spectrum of\
+  \ light appearing in the sky. It takes the form of a multicoloured circular arc.\
+  \ Rainbows caused by sunlight always appear in the section of sky directly opposite\
+  \ the sun.\nRainbows can be full circles. However, the observer normally sees only\
+  \ an arc formed by illuminated droplets above the ground, and centered on a line\
+  \ from the sun to the observer's eye.\nIn a primary rainbow, the arc shows red on\
+  \ the outer part and violet on the inner side. This rainbow is caused by light being\
+  \ refracted when entering a droplet of water, then reflected inside on the back\
+  \ of the droplet and refracted again when leaving it.\nIn a double rainbow, a second\
+  \ arc is seen outside the primary arc, and has the order of its colors reversed,\
+  \ with red on the inner side of the arc. This is caused by the light being reflected\
+  \ twice on the inside of the droplet before leaving it.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2009-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28948'
+  wikidata: Q3288936
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family -- England -- Midlands -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Midlands (England) -- Fiction'
+- !lcc 'PR'
+title: The Rainbow
+url: http://www.gutenberg.org/ebooks/28948
+wikipedia:
+- https://sh.wikipedia.org/wiki/Duga_(roman)
+- https://pt.wikipedia.org/wiki/The_Rainbow
+- https://fa.wikipedia.org/wiki/%D8%B1%D9%86%DA%AF%DB%8C%D9%86_%DA%A9%D9%85%D8%A7%D9%86_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://de.wikipedia.org/wiki/Der_Regenbogen_(Roman)
+- https://en.wikipedia.org/wiki/The_Rainbow
+- https://it.wikipedia.org/wiki/L%27arcobaleno_(romanzo)
+- https://hr.wikipedia.org/wiki/Duga_(roman)
+- https://fa.wikiquote.org/wiki/%D8%B1%D9%86%DA%AF%DB%8C%D9%86_%DA%A9%D9%85%D8%A7%D9%86_(%D8%B1%D9%85%D8%A7%D9%86)
